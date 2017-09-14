@@ -15,7 +15,7 @@ s.license      = "MIT"
 s.author             = { "TracyChouYY" => "zhouyuan_yyl@126.com" }
 
 
-s.source       = { :git => "https://github.com/TracyChouYY/ProText.git", :tag => "1.0.2" }
+s.source       = { :git => "https://github.com/TracyChouYY/SWText.git", :tag => "1.0.2" }
 
 
 
